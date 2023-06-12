@@ -1,7 +1,7 @@
 Unlocking Customer Insights: Revealing Purchasing Behavior and Target Segments for Chips  Using R
 A Data Exploration & Analysis Journey
 
-*//Introduction
+##Introduction
 As part of Quantium's retail analytics team, the objective of this report was to analyze the type of customers and their purchasing behavior in relation to chips. 
 The analysis aimed to provide insights and recommendations to the Category Manager for Chips. The tools utilized for this analysis were R and various libraries.
 
