@@ -2,7 +2,7 @@
 
 ## Introduction
 As part of Quantium's retail analytics team, the objective of this report was to analyze the type of customers and their purchasing behavior in relation to chips. 
-The analysis aimed to provide insights and recommendations to the Category Manager for Chips. The tools utilized for this analysis were R and various libraries.
+The analysis aim to provide insights and recommendations to the Category Manager for Chips. The tools utilized for this analysis were R and various libraries.
 
 ## Insights and Recommendations:
 Mainstream - young singles/couples, Budget - older families, and Mainstream - retirees were identified as the main contributors to chip sales.
